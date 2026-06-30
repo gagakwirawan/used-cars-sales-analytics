@@ -19,3 +19,5 @@ Oh, I forgot to mentioned that the dataset that I used, I got it from https://do
 * Make sure you put it in one same folder
 * I preferably use jupyter notebook to open ipynb file
 * Run the program
+
+(footnote: dashboarding is my WIP!)
